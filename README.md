@@ -1,7 +1,7 @@
-- 👋 Merhaba, bu sayfa Gümüşhane Üniversitesi Elektrik-Elektronik Mühendisliği EESEC 440 Mesleki İngilizce dersinin sayfasıdır. 
-- 👀 Elektrik-Elektronik Mühendisliğinde öğrendiğimiz temel prensiplerden bazılarını bu sayfada farklı isimlerdeki depolarda (repository) mümkün mertebe İngilizce olarak dökümente ediyoruz.
+- 👋 Merhaba, bu sayfa Gümüşhane Üniversitesi Elektrik-Elektronik Mühendisliği **EESEC 440 Mesleki İngilizce** dersinin sayfasıdır. 
+- 👀 Elektrik-Elektronik Mühendisliğinde (EEM) öğrendiğimiz temel prensiplerden bazılarını bu sayfada farklı isimlerdeki depolarda (repository) mümkün mertebe İngilizce olarak dökümente ediyoruz.
 - 🌱 Derin Öğrenme (deep learning) konusuyla çok ilgiliyiz.
-- 💞️ Dersimizde github hesabı açıp da derste yazdığımız kodları kendi hesaplarında kendi oluşturdukları depolara koyan arkadaşlarımıza sınavlarda ekstra not verilecektir.
+- 💞️ Dersimizde github hesabı açıp, derste yazdığımız kodları kendi hesaplarında kendi oluşturdukları depolara koyan arkadaşlarımıza sınavlarda ekstra not verilecektir.
 - 📫 Email adresimiz: gumushane.eem.eesec.440@gmail.com
 
 <!---
